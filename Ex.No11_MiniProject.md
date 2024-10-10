@@ -2,7 +2,7 @@
 ### DATE: 
 ### REGISTER NUMBER: 212222240025
 ### AIM:
-To write a Python program to simulate the game using Pygame.
+To write a Python program to simulate the space shotter using Pygame.
 
 ## Algorithm:
 
