@@ -26,11 +26,6 @@ Update the state of all game objects (player, bullets, enemies).
 
 Check for collisions between bullets and enemies.
 
-### Output:
-Draw all game objects on the screen.
-
-Update the display and manage the frame rate.
-
 5.End Game Conditions: Define conditions for game over (e.g., player colliding with an enemy).
 
 6.Exit: Clean up and quit Pygame when the game is over.
